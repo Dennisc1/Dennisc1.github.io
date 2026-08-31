@@ -3,7 +3,8 @@
 Welcome to my portfolio!
 
 # GitHub Repository
-[GitHub Repository](https://github.com/annajacobs1/CS3750_Group_Project.git)
+# GitHub Repository
+<a href="https://github.com/annajacobs1/CS3750_Group_Project.git" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
 
 ## Connect With Me
 
