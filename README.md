@@ -2,6 +2,9 @@
 
 Welcome to my portfolio!
 
+# GitHub Repository
+[GitHub Repository](https://github.com/annajacobs1/CS3750_Group_Project.git)
+
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="_blank" rel="noopener noreferrer">
